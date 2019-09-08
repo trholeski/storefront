@@ -10,9 +10,11 @@ Second, the user is prompted to input a quantity of the item that they would lik
 
 ![](readMeImages/quantity.png)
 ![](readMeImages/success.png)
+
 Third, if the quantity is more than the current stock, the user will be prompted to respond that they would like to purchase the remaining stock and not the initially requested quantity.  If that's not the case or if the user responds in the affirmative to the aforementioned question, the purchase will complete and the user will be presented with an update of the new value of the stock quantity.
 
 ![](readMeImages/prompt2.png)
 ![](readMeImages/quantity2.png)
 ![](readMeImages/success2.png)
+
 I hope that you enjoy this mock storefront experience.
